@@ -1,1 +1,2 @@
 # portfolio
+rm -rf .git
